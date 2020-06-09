@@ -1,0 +1,10 @@
+node_modules
+npm-debug.*
+
+web-build/
+web-report/
+yarn.lock
+# macOS
+.DS_Store
+
+.editorconfig
